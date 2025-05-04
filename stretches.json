@@ -1,0 +1,409 @@
+{
+  "bodyParts": [
+    {
+      "name": "head",
+      "commonName": "Head",
+      "muscleGroup": "Brain",
+      "stretches": [
+        {
+          "stretchName": "Mindful Breathing",
+          "instructions": "Sit in a comfortable position. Close your eyes and take slow, deep breaths. Focus on the sensation of the air entering and leaving your body. If your mind wanders, gently bring your attention back to your breath.",
+          "duration": 120
+        },
+        {
+          "stretchName": "Body Scan Meditation",
+          "instructions": "Lie down or sit comfortably. Close your eyes and slowly move your attention through your body, starting from your toes and working up to your head. Notice any sensations, tension, or relaxation without judgment.",
+          "duration": 300
+        },
+        {
+          "stretchName": "Visualization Meditation",
+          "instructions": "Sit or lie down comfortably. Close your eyes and imagine a peaceful place. Picture yourself there and focus on the sights, sounds, and smells.",
+          "duration": 240
+        },
+        {
+          "stretchName": "Head Tilts",
+          "instructions": "Sit upright. Slowly tilt your head to one side, bringing your ear toward your shoulder. Hold for a few seconds and repeat on the other side.",
+          "duration": 30
+        }
+      ]
+    },
+    {
+      "name": "neck",
+      "commonName": "Neck",
+      "muscleGroup": "Cervical muscles",
+      "stretches": [
+        {
+          "stretchName": "Upper Trapezius Stretch",
+          "instructions": "Sit upright and gently pull your head to the side with one hand while keeping the opposite shoulder relaxed.",
+          "duration": 30
+        },
+        {
+          "stretchName": "Neck Flexion Stretch",
+          "instructions": "Lower your chin to your chest while keeping your shoulders relaxed. Hold the stretch for 20-30 seconds.",
+          "duration": 30
+        },
+        {
+          "stretchName": "Neck Rotation Stretch",
+          "instructions": "Gently turn your head to one side as far as is comfortable, hold, then turn to the other side.",
+          "duration": 30
+        },
+        {
+          "stretchName": "Levator Scapula Stretch",
+          "instructions": "Place your hand behind your head, pull down toward your armpit, and gently stretch the neck.",
+          "duration": 30
+        }
+      ]
+    },
+    {
+      "name": "pecs",
+      "commonName": "Chest",
+      "muscleGroup": "Pectoral muscles",
+      "stretches": [
+        {
+          "stretchName": "Doorway Stretch",
+          "instructions": "Stand in a doorway with your arms on the door frame at shoulder height. Step forward to stretch the chest.",
+          "duration": 30
+        },
+        {
+          "stretchName": "Chest Expansion",
+          "instructions": "Clasp your hands behind your back, straighten your arms, and lift your chest up toward the sky.",
+          "duration": 30
+        },
+        {
+          "stretchName": "Wall Pec Stretch",
+          "instructions": "Place your arm at a 90-degree angle against a wall and step forward to open up the chest.",
+          "duration": 30
+        },
+        {
+          "stretchName": "Lying Pec Stretch",
+          "instructions": "Lie on your back with your arms extended out to the sides, gently pressing them toward the ground.",
+          "duration": 30
+        }
+      ]
+    },
+    {
+      "name": "delts",
+      "commonName": "Shoulders",
+      "muscleGroup": "Deltoid muscles",
+      "stretches": [
+        {
+          "stretchName": "Cross-Body Shoulder Stretch",
+          "instructions": "Pull one arm across your chest with the opposite hand, keeping your shoulder down.",
+          "duration": 30
+        },
+        {
+          "stretchName": "Shoulder Circles",
+          "instructions": "Stand tall and rotate your shoulders in large circles, first forward, then backward.",
+          "duration": 60
+        },
+        {
+          "stretchName": "Eagle Arms Stretch",
+          "instructions": "Extend both arms in front, cross one arm over the other, bend the elbows, and press the backs of your hands together to stretch the shoulders.",
+          "duration": 30
+        },
+        {
+          "stretchName": "Doorway Shoulder Stretch",
+          "instructions": "Stand in a doorway, raise one arm to 90 degrees, and step forward to stretch the shoulder.",
+          "duration": 30
+        }
+      ]
+    },
+    {
+      "name": "biceps",
+      "commonName": "Upper Arms",
+      "muscleGroup": "Biceps brachii",
+      "stretches": [
+        {
+          "stretchName": "Bicep Wall Stretch",
+          "instructions": "Place your hand against a wall at shoulder height with fingers pointing back, and gently turn your body away.",
+          "duration": 30
+        },
+        {
+          "stretchName": "Seated Bicep Stretch",
+          "instructions": "Sit on the floor with your hands behind you and fingers pointing away from your body. Lean slightly backward to stretch the biceps.",
+          "duration": 30
+        },
+        {
+          "stretchName": "Reverse Hand Stretch",
+          "instructions": "Extend your arm forward, palm up, and use your other hand to gently pull back on your fingers.",
+          "duration": 30
+        },
+        {
+          "stretchName": "Overhead Bicep Stretch",
+          "instructions": "Reach both arms overhead and interlock your fingers. Gently pull up and back to stretch the biceps.",
+          "duration": 30
+        }
+      ]
+    },
+    {
+      "name": "triceps",
+      "commonName": "Upper Arms",
+      "muscleGroup": "Triceps brachii",
+      "stretches": [
+        {
+          "stretchName": "Overhead Triceps Stretch",
+          "instructions": "Raise one arm overhead and bend the elbow, using your other hand to gently push the elbow down.",
+          "duration": 30
+        },
+        {
+          "stretchName": "Side Triceps Stretch",
+          "instructions": "Hold one arm across your body and use the opposite hand to gently press the elbow, stretching the triceps.",
+          "duration": 30
+        },
+        {
+          "stretchName": "Tabletop Triceps Stretch",
+          "instructions": "Sit on the floor, place your hands behind you with fingers pointing toward your body, and lift your hips to stretch the triceps.",
+          "duration": 30
+        },
+        {
+          "stretchName": "Wall Triceps Stretch",
+          "instructions": "Place one hand behind your head and press your arm against a wall to deepen the stretch.",
+          "duration": 30
+        }
+      ]
+    },
+    {
+      "name": "forearms",
+      "commonName": "Forearms",
+      "muscleGroup": "Forearm flexors and extensors",
+      "stretches": [
+        {
+          "stretchName": "Wrist Flexor Stretch",
+          "instructions": "Extend your arm in front of you, palm facing down, and use your opposite hand to gently pull back on your fingers.",
+          "duration": 30
+        },
+        {
+          "stretchName": "Wrist Extensor Stretch",
+          "instructions": "Extend your arm in front of you, palm facing up, and gently pull back on your fingers to stretch the forearm.",
+          "duration": 30
+        },
+        {
+          "stretchName": "Forearm Squeeze Stretch",
+          "instructions": "Grab the forearm of one hand with the opposite hand and gently squeeze while rotating the wrist in small circles.",
+          "duration": 30
+        },
+        {
+          "stretchName": "Prayer Stretch",
+          "instructions": "Press your palms together in front of your chest and slowly lower them to stretch your forearms.",
+          "duration": 30
+        }
+      ]
+    },
+    {
+      "name": "hands",
+      "commonName": "Hands",
+      "muscleGroup": "Hand muscles",
+      "stretches": [
+        {
+          "stretchName": "Finger Stretch",
+          "instructions": "Spread your fingers wide and hold for a few seconds, then relax and repeat.",
+          "duration": 10
+        },
+        {
+          "stretchName": "Fist Clench Stretch",
+          "instructions": "Make a fist and hold for 5 seconds, then release and stretch your fingers wide.",
+          "duration": 15
+        },
+        {
+          "stretchName": "Palm Press Stretch",
+          "instructions": "Press the palms of your hands together and push, then stretch your fingers up and apart.",
+          "duration": 20
+        },
+        {
+          "stretchName": "Thumb Stretch",
+          "instructions": "Use your other hand to gently pull the thumb backward, stretching the base of the thumb.",
+          "duration": 15
+        }
+      ]
+    },
+    {
+      "name": "abs",
+      "commonName": "Abdominals",
+      "muscleGroup": "Rectus abdominis",
+      "stretches": [
+        {
+          "stretchName": "Cobra Stretch",
+          "instructions": "Lie face down and push up with your hands, keeping your hips on the ground to stretch the abdomen.",
+          "duration": 30
+        },
+        {
+          "stretchName": "Cat-Cow Stretch",
+          "instructions": "Start on your hands and knees, alternating between arching your back up (cat) and lowering your belly (cow).",
+          "duration": 60
+        },
+        {
+          "stretchName": "Seated Forward Bend",
+          "instructions": "Sit with legs straight in front of you, reaching for your toes to stretch the lower abdominals.",
+          "duration": 45
+        },
+        {
+          "stretchName": "Plank Stretch",
+          "instructions": "Hold a plank position, engaging your core muscles for stability while keeping your body in a straight line.",
+          "duration": 30
+        }
+      ]
+    },
+    {
+      "name": "obliques",
+      "commonName": "Obliques",
+      "muscleGroup": "Oblique muscles",
+      "stretches": [
+        {
+          "stretchName": "Standing Side Bend",
+          "instructions": "Stand with your feet shoulder-width apart and reach one arm overhead while bending to the opposite side.",
+          "duration": 30
+        },
+        {
+          "stretchName": "Supine Twist",
+          "instructions": "Lie on your back, bring one knee across your body to the opposite side, and gently twist to stretch the obliques.",
+          "duration": 40
+        },
+        {
+          "stretchName": "Side Plank Stretch",
+          "instructions": "Hold a side plank position, engaging the obliques for stability.",
+          "duration": 30
+        },
+        {
+          "stretchName": "Overhead Oblique Stretch",
+          "instructions": "Stand and clasp your hands overhead, then gently lean to one side to stretch the obliques.",
+          "duration": 30
+        }
+      ]
+    },
+    {
+      "name": "quads",
+      "commonName": "Thighs",
+      "muscleGroup": "Quadriceps",
+      "stretches": [
+        {
+          "stretchName": "Standing Quad Stretch",
+          "instructions": "Stand on one leg and pull your opposite foot toward your glutes, keeping your knees close together.",
+          "duration": 30
+        },
+        {
+          "stretchName": "Lying Quad Stretch",
+          "instructions": "Lie on your side, grab your top ankle, and pull it toward your glutes to stretch the quad.",
+          "duration": 30
+        },
+        {
+          "stretchName": "Frog Pose",
+          "instructions": "Kneel on the floor, and spread your knees wide while keeping your feet together, sitting back to stretch your quads.",
+          "duration": 45
+        },
+        {
+          "stretchName": "Lunging Quad Stretch",
+          "instructions": "Step one foot forward into a lunge and drop your back knee to the floor, stretching the quad of your back leg.",
+          "duration": 30
+        }
+      ]
+    },
+    {
+      "name": "adductor",
+      "commonName": "Inner Thigh",
+      "muscleGroup": "Adductor muscles",
+      "stretches": [
+        {
+          "stretchName": "Butterfly Stretch",
+          "instructions": "Sit with your feet together and gently press your knees toward the floor using your elbows.",
+          "duration": 30
+        },
+        {
+          "stretchName": "Wide-Legged Forward Bend",
+          "instructions": "Stand with legs wide apart and slowly bend forward to stretch the inner thighs.",
+          "duration": 40
+        },
+        {
+          "stretchName": "Frog Stretch",
+          "instructions": "Kneel and spread your knees wide, lowering your hips back to stretch the inner thighs.",
+          "duration": 30
+        },
+        {
+          "stretchName": "Side Lunge Stretch",
+          "instructions": "Step to the side and bend one knee while keeping the other leg straight to stretch the inner thigh of the extended leg.",
+          "duration": 30
+        }
+      ]
+    },
+    {
+      "name": "shins",
+      "commonName": "Shins",
+      "muscleGroup": "Tibialis anterior",
+      "stretches": [
+        {
+          "stretchName": "Shin Stretch",
+          "instructions": "Kneel on the floor with your toes pointed back, then sit gently on your heels to stretch the shins.",
+          "duration": 30
+        },
+        {
+          "stretchName": "Toe Point Stretch",
+          "instructions": "Sit with your legs extended and point your toes, stretching the muscles along the front of your shin.",
+          "duration": 20
+        },
+        {
+          "stretchName": "Standing Shin Stretch",
+          "instructions": "Stand and flex your foot back, pressing your toes to the ground, to stretch your shin muscles.",
+          "duration": 30
+        },
+        {
+          "stretchName": "Seated Shin Stretch",
+          "instructions": "Sit on the floor, point your toes down, and gently press the tops of your feet into the ground.",
+          "duration": 30
+        }
+      ]
+    },
+    {
+      "name": "calves",
+      "commonName": "Calves",
+      "muscleGroup": "Gastrocnemius and soleus",
+      "stretches": [
+        {
+          "stretchName": "Standing Calf Stretch",
+          "instructions": "Stand facing a wall, place one foot behind you, and press the heel into the ground while bending your front knee.",
+          "duration": 30
+        },
+        {
+          "stretchName": "Downward Dog",
+          "instructions": "From a plank position, lift your hips up, pressing your heels toward the floor to stretch the calves.",
+          "duration": 45
+        },
+        {
+          "stretchName": "Seated Calf Stretch",
+          "instructions": "Sit on the floor with your legs straight and pull your toes back toward your body to stretch the calves.",
+          "duration": 30
+        },
+        {
+          "stretchName": "Calf Foam Rolling",
+          "instructions": "Sit with your legs straight, place a foam roller under your calves, and gently roll to stretch and massage the muscles.",
+          "duration": 60
+        }
+      ]
+    },
+    {
+      "name": "feet",
+      "commonName": "Feet",
+      "muscleGroup": "Foot muscles",
+      "stretches": [
+        {
+          "stretchName": "Toe Stretch",
+          "instructions": "Sit with one leg crossed over the other, grab your toes, and gently pull them back toward your shin.",
+          "duration": 20
+        },
+        {
+          "stretchName": "Arch Stretch",
+          "instructions": "Stand and roll the sole of your foot over a small ball or water bottle to stretch the arch of your foot.",
+          "duration": 30
+        },
+        {
+          "stretchName": "Foot Flex Stretch",
+          "instructions": "Sit with your legs extended and flex your feet, pulling your toes back toward your body.",
+          "duration": 30
+        },
+        {
+          "stretchName": "Toe Curl Stretch",
+          "instructions": "Curl your toes under and press them into the ground while sitting to stretch the foot muscles.",
+          "duration": 20
+        }
+      ]
+    }
+  ]
+}

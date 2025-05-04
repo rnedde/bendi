@@ -1,0 +1,176 @@
+html {
+    font-size: calc(14px + 0.390625vw);
+}
+
+:root {
+    --head-color: #ffb9b5;
+    --neck-color: #ffceb5;
+    --pecs-color: #ffeeb5;
+    --delts-color: #f3ffb5;
+    --triceps-color: #d2ffb5;
+    --biceps-color: #b5ffdb;
+    --forearms-color: #b5faff;
+    --hands-color: #b5deff;
+    --abs-color: #b5ffc8;
+    --obliques-color: #b5e1ff;
+    --quads-color: #b5b8ff;
+    --adductor-color: #cfb5ff;
+    --shins-color: #e5b5ff;
+    --calves-color: #ffb5f6;
+    --feet-color: #ffb5ca;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    background-color: white;
+}
+
+.header {
+    line-height: 0rem;
+}
+
+h1 {
+    font-family: "chaloops", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    outline: 2px;
+    text-shadow: 0 0 3px black;
+    padding: 1rem 0;
+}
+
+g:hover {
+    cursor: pointer;
+}
+
+.bendi-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#common-name {
+    position: absolute;
+    font-size: 1rem;
+    margin: 4vh 32%;
+    padding: .3rem 1rem;
+    white-space: normal;
+    /* Ensure text will wrap */
+    word-wrap: break-word;
+    /* Break long words if necessary */
+    overflow-wrap: break-word;
+    /* Ensure proper text breaking */
+
+}
+
+#information {
+    width: 100%;
+    visibility: hidden;
+    display: inline-block;
+
+}
+
+#muscle-group {
+    display: inline-block;
+    padding: .3rem 1rem;
+    margin: 1rem;
+}
+
+#stretch-name {
+    display: inline-block;
+    padding: .3rem 1rem;
+    margin: 1rem;
+}
+
+#stretch-description {
+    margin: 1rem 3rem;
+}
+
+#stretch-duration {
+    margin: 3rem, 1rem;
+}
+
+.hide-and-show {
+    visibility: hidden;
+}
+
+#countdown-container {
+    flex-direction: column;
+    justify-content: space-between;
+    border-radius: 0.3rem;
+    margin: 2rem;
+    display: inline-block;
+}
+
+#countdown-header {
+    margin: 1rem;
+}
+
+#countdown {
+    display: inline-block;
+}
+
+#countdown-buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#countdown-button {
+    margin: 1rem;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+    padding: 0 .3rem;
+    border: 1px solid black;
+    border-radius: .3rem;
+    display: inline-block;
+}
+
+#countdown-button:hover {
+    cursor: pointer;
+    box-shadow: 0px 0px 0px 0;
+}
+
+.responsive-svg {
+    display: inline-block;
+    width: 100%;
+    height: 70vh;
+}
+#disclaimer{
+    margin-top:1rem;
+    font-size:.5rem;
+}
+#copyright{
+    color:lightgray;
+    font-size:.7rem;
+}
+
+.head-col {
+    color: var(--head-color);
+}
+
+.neck-col {
+    color: var(--neck-color);
+}
+
+.pecs-col {
+    color: var(--pecs-color);
+}
+
+.delts-col {
+    color: var(--delts-color);
+}
+
+.triceps-col {
+    color: var(--triceps-color);
+}
+
+.quads-col {
+    color: var(--quads-color);
+}
+
+.feet-col {
+    color: var(--feet-color);
+}
